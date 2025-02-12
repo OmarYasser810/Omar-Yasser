@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Omar Yasser
+- 👀 I’m interested in backend devolping
+- 🌱 I’m currently learning larvel and java script
+- 📫 How to reach me -> OmarYasser05810@gmail.com
