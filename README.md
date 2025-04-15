@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Omar Yasser
 - 👀 I’m interested in backend devolping
-- 🌱 I’m currently learning larvel and java script
+- 🌱 I’m currently learning Django
 - 📫 How to reach me -> OmarYasser05810@gmail.com
