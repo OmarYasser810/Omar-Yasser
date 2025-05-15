@@ -1,5 +1,5 @@
 - Hi, I’m Omar Yasser
-- I’m interested in backend devolping
+- I’m interested in backend devoloping
 - I’m currently learning Django
 - How to reach me -> OmarYasser05810@gmail.com
 - LinkedIn -> linkedin.com/in/omar-yasser-331233350
